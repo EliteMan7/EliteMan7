@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋 This is about me:</h1>
-🔭 I'm looking to collaborate on product innovation and user experience design.
+<p>🔭 I'm looking to collaborate on product innovation and user experience design.</p>
 
-🌱 I'm currently learning advanced product management techniques, data-driven decision making, and customer journey mapping
+<p>🌱 I'm currently learning advanced product management techniques, data-driven decision making, and customer journey mapping</p>
 
-👨‍💻 Interest in market research and user feedback analysis.
+<p>👨‍💻 Interest in market research and user feedback analysis.</p>
 
-⚡ Fun Fact: I love blending creativity with strategy, and in my free time, I enjoy running, working out, exploring nature, playing video games, trying new foods, and keeping up with politics.
+<p>⚡ Fun Fact: I love blending creativity with strategy, and in my free time, I enjoy running, working out, exploring nature, playing video games, trying new foods, and keeping up with politics.</p>
 
 
 
