@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 This is about me:</h1>
-- ⚡ Fun fact **Fun fact: I love blending creativity with strategy, and in my free time, I enjoy running, working out, exploring nature, playing video games, trying new foods, and keeping up with politics.**
+⚡ Fun Fact: I love blending creativity with strategy, and in my free time, I enjoy running, working out, exploring nature, playing video games, trying new foods, and keeping up with politics.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
